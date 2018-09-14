@@ -17,4 +17,6 @@ Format to be respected:
 
 - 18/10/2018, "Neuromarketing", Jérémy Vantighem
 
+
 -28/9/2018 "Ethics in Technology and Design", Marco Tampieri
+
