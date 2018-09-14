@@ -14,3 +14,5 @@ Format to be respected:
 - 27/09/2018, "Traffic Analysis Tools" Michel Deraemaeker
 
 -26/10/2018, "Robots.txt" Kevin Lagey
+
+- 18/10/2018, "Neuromarketing", Jérémy Vantighem
