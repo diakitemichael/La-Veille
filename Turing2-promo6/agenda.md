@@ -13,5 +13,5 @@ Format à respecter:
  | Date          | Nom              | Sujet              |
  |:----------------:|:----------------:| ------------------:|
  | Ve 14/09 | Arnaud | Veille Inception |
- | Lu 1/09 | Redouane | Inconnu |
+ | Lu 17/09 | Redouane | Inconnu |
 </details>
