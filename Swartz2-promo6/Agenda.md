@@ -13,3 +13,4 @@ Format to be respected:
 - 26/09/2018, "Net Neutrality" Damian Szacun
 - 27/09/2018, "Traffic Analysis Tools" Michel Deraemaeker
 
+-26/10/2018, "Robots.txt" Kevin Lagey
