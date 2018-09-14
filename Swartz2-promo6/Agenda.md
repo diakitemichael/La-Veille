@@ -10,7 +10,7 @@ Format to be respected:
 - Monday 17/09/2018, "What is Blockchain technology", Valerian Thomas(not in the list of topics on purpose)
 
 - Monday 22/10/2018, "Responsive Design", Lily Danhaive
-
+- 24/09/2018, "SASS", Matthieu Brouillard
 - 26/09/2018, "Net Neutrality" Damian Szacun
 - 27/09/2018, "Traffic Analysis Tools" Michel Deraemaeker
 
