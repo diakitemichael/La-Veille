@@ -18,5 +18,5 @@ Format to be respected:
 - 28/9/2018 "Ethics in Technology and Design", Marco Tampieri
 - 19/10/2018, "Social Network Widgets" Stijn Vossen
 - 15/10/2018, "Web servers" Florentin Lefort
-- 08/10/2018, "UX Design" Silvia Boscutti
-
+- 08/10/2018, "UX Design" Silvia Boscutt
+- 09/10/2018, "Material Design" Michaël Diakité
